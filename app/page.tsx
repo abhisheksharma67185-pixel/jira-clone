@@ -37,6 +37,8 @@ export default function WelcomePage() {
             <h1 className="text-[40px] leading-tight font-bold text-slate-800">
               <span className="relative inline-block">
                 Welcome back, Team.
+                <svg
+                  className="absolute -bottom-1 left-[340px] w-[120px]"
                   viewBox="0 0 120 12"
                   fill="none"
                   xmlns="http://www.w3.org/2000/svg"
